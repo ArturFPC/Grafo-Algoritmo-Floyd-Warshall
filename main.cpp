@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+//Autor: Artur Francisco Pereira Carvalho
 using namespace std;
 const int INF =999;
 void floydWarshall(vector<vector<int>> &mA, vector<vector<int>> &mP){
