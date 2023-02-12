@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675743030 source:/home/tutu/codeblocks-programs/FloydWarshal-algorithm/main.cpp
+	<iostream>
+	<vector>
+
